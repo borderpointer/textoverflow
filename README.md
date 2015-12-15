@@ -1,4 +1,4 @@
-# textoverflow - web app
+# textoverflow - web
 
 ### Built With:
 
