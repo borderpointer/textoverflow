@@ -5,7 +5,7 @@
 - Node.js
 
 
-### Dependencies:
+### NPM Dependencies:
 
 - Body-Parser
 - Express
@@ -15,7 +15,6 @@
 ### Third Party Libraries:
 
 - jQuery
-- jQUery Mobile
 - Google Fonts
 - Sweetalert
 
