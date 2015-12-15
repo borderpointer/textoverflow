@@ -35,4 +35,4 @@ I wanted to make my friends get off their phones at dinner and actually interact
 
 ### Installation
 
-Beta available: [here](http://textoverflow.herokuapp.com/)
+Beta available [here](http://textoverflow.herokuapp.com/)
