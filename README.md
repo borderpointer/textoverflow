@@ -1,9 +1,8 @@
-# textoverflow
+# textoverflow - web app
 
 ### Built With:
 
 - Node.js
-- Phonegap
 
 
 ### Dependencies:
