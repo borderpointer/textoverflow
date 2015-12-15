@@ -27,7 +27,7 @@
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background-color: #1DC0CB;
+    background-color: #00CB01;
     font-size:16px;
     height:100%;
     margin: 0;
