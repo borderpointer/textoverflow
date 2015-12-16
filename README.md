@@ -1,5 +1,6 @@
 # textoverflow - web
 
+
 ### Built With:
 
 - Node.js
@@ -12,11 +13,13 @@
 - Request
 - Twilio
 
+
 ### Third Party Libraries:
 
 - jQuery
 - Google Fonts
 - Sweetalert
+
 
 ### Third Party API's:
 
@@ -30,9 +33,9 @@ Are you friends constantly on their phones at dinner? Use this app to get them o
 
 ### Motivation
 
-I wanted to make my friends get off their phones at dinner and actually interact physically.
+I wanted to make my friends get off their phones at dinner and actually interact in person.
 
 
 ### Installation
 
-Beta available [here](http://textoverflow.herokuapp.com/)
+View the Android app repo [here](https://github.com/borderpointer/textoverflow-android)
