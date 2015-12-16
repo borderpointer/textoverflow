@@ -63,5 +63,3 @@ function alertSuccess () {
     $('#image-search-terms').val("");
 
 }
-
-app.initialize();
