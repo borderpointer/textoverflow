@@ -63,10 +63,10 @@ app.post('/twilio', function(req, res, next) {
             console.log("to: ", responseData.to);
             console.log("message: ", responseData.body);
             console.log("image url: ", responseData.mediaUrl);
+            res.send(responseData.to);
 
         }
 
-        res.send(responseData);
 
     });
 
