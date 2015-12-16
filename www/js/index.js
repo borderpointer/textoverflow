@@ -42,7 +42,7 @@ function sendText(imageDataArray, num, count) {
         method: 'POST'
         }).done(function(data) {
 
-            console.log(data);
+            console.log("text sent to: " + data);
 
         });
 
