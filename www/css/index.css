@@ -45,7 +45,7 @@ h1 {
     font-weight:700;
     text-align:center;
     width: 75vw;
-    margin: 30px auto 25px auto;
+    margin: 30px auto 45px auto;
     line-height: 1.3;
 }
 
@@ -84,7 +84,11 @@ h1 {
 }
 
 .input-group {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+.labels {
+    font-size: .9em;
 }
 
 input {
