@@ -56,7 +56,7 @@ function alertSuccess () {
         type: "success",
         allowOutsideClick: true,
         timer: 3000,
-        confirmButtonColor: "#FF842D"
+        confirmButtonColor: "#5CA377"
     });
 
     $('#digits').val("");
