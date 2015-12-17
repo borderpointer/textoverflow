@@ -52,7 +52,7 @@ app.post('/twilio', function(req, res, next) {
 
         to: '+1' + req.body.num,
         from: '+19177468848',
-        body: 'Gett uff ur fone',
+        body: req.body.message,
         mediaUrl: req.body.image_url
 
     }, function(err, responseData) { //this function is executed when a response is received from Twilio
