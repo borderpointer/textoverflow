@@ -38,4 +38,4 @@ I wanted to make my friends get off their phones at dinner and actually interact
 
 ### Installation
 
-View the Android app repo [here](https://github.com/borderpointer/textoverflow-android) to download the app or visit [here](http://textoverflow.herokuapp.com/) if you don't have an Android
+View the Android app repo [here](https://github.com/borderpointer/textoverflow-android) to download or visit [here](http://textoverflow.herokuapp.com/) if you don't have an Android
